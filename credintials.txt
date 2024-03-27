@@ -1,0 +1,3 @@
+Spotify Credintials API
+CLIENT_ID = 'ceecde0f00c944509e09834937cc21ca'
+CLIENT_SECRET = 'ecfc6b573bda440f8b8b269511b77f79'
